@@ -88,7 +88,7 @@
   "first.time.here": "C'est votre première visite ?",
   "email.help.message": "L'adresse électronique que vous avez utilisée pour vous inscrire à edX.",
   "enterprise.login.btn.text": "Identifiants de la compagnie ou de l'école",
-  "email.format.validation.message": "L'adresse email que vous avez fournie est incorrecte.",
+  "email.format.validation.message": "L'adresse courriel que vous avez fournie est incorrecte.",
   "username.or.email.format.validation.less.chars.message": "Le nom d'utilisateur ou l'adresse courriel doit comporter au moins 3 caractères.",
   "email.validation.message": "Entrez votre nom d'utilisateur ou votre adresse courriel",
   "password.validation.message": "Les critères de mot de passe n'ont pas été remplis",
