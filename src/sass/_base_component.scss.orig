@@ -29,18 +29,13 @@
 }
 
 .logo {
-  width: 300px;
+  width: 71px;
   margin-top: 2rem;
   margin-left: 1.5rem;
 }
 
 .mw-320 {
   max-width: 320px;
-}
-
-.main-heading {
-  position: relative;
-  z-index: 2;
 }
 
 .complete-your-profile {
